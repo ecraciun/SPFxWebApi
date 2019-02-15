@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "sp-fx-api-demo",
+    "libraryId": "d525f827-4b85-436c-9074-7a76beca24ba",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
