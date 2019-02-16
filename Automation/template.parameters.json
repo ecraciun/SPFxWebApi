@@ -4,6 +4,9 @@
   "parameters": {
     "appServicePlanName": {
       "value": ""
+    },
+    "appServiceSku": {
+      "value": ""
     }
   }
 }
